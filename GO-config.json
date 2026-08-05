@@ -1,6 +1,6 @@
 {
   "adsEnabled": true,
-  "rewarded": true,
+  "rewarded": false,
   "appOpen": true,
   "nativeAdEvery": 2
 }
