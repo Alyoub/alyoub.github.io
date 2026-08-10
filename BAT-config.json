@@ -1,8 +1,8 @@
 {
   "adsEnabled": true,
   "appOpen": true,
-  "interstitial": true,
-  "rewarded": true,
-  "banner": true,
-  "interstitialInterval": 3
+  "interstitial": false,
+  "rewarded": false,
+  "banner": false,
+  "interstitialInterval": 100
 }
