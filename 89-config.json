@@ -4,5 +4,5 @@
   "interstitial": true,
   "rewarded": true,
   "banner": true,
-  "interstitialInterval": 4
+  "interstitialInterval": 5
 }
