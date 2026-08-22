@@ -4,5 +4,6 @@
   "interstitial": true,
   "rewarded": true,
   "banner": false,
-  "interstitialInterval": 10
+  "interstitialInterval": 10,
+  "Link" : "https://youtube.com"
 }
