@@ -1,10 +1,10 @@
 {
   "adsEnabled": true,
   "appOpen": true,
-  "interstitial": true,
-  "rewarded": true,
+  "interstitial": false,
+  "rewarded": false,
   "banner": false,
   "interstitialInterval": 10,
-  "ratingpopup": 3,
+  "ratingpopup": 1000,
   "Link" : "https://google.com"
 }
