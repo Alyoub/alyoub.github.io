@@ -4,5 +4,6 @@
   "interstitial": true,
   "rewarded": true,
   "banner": true,
-  "interstitialInterval": 4
+  "taps": 4,
+  "ratingpop": 3
 }
