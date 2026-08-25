@@ -5,6 +5,5 @@
   "rewarded": true,
   "banner": false,
   "taps": 10,
-  "normal-unit": 1,
-  "ratingpop": 50
+  "normal-unit": 1
 }
