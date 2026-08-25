@@ -4,7 +4,7 @@
   "interstitial": true,
   "rewarded": true,
   "banner": true,
-  "taps": 4,
+  "taps": 10,
   "normal-unit": 2,
   "ratingpop": 10
 }
