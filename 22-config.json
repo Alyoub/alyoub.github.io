@@ -3,7 +3,7 @@
   "appOpen": true,
   "interstitial": true,
   "rewarded": true,
-  "banner": true,
+  "banner": false,
   "taps": 10,
   "normal-unit": 2,
   "ratingpop": 10
