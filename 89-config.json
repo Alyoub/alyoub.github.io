@@ -3,6 +3,6 @@
   "appOpen": true,
   "interstitial": true,
   "rewarded": true,
-  "banner": true,
+  "banner": false,
   "interstitialInterval": 7
 }
