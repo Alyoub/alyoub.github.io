@@ -2,5 +2,7 @@
   "adsEnabled": true,
   "rewarded": true,
   "appOpen": true,
-  "nativeAdEvery": 1
+  "interstitial": true,
+  "banner": true,
+  "nativeAdEvery": 20
 }
