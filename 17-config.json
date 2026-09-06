@@ -3,6 +3,5 @@
   "rewarded": true,
   "appOpen": true,
   "interstitial": true,
-  "banner": true,
   "nativeAdEvery": 20
 }
