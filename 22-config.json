@@ -4,6 +4,6 @@
   "interstitial": true,
   "rewarded": true,
   "banner": false,
-  "taps": 4,
+  "taps": 6,
   "normal-unit": 1
 }
