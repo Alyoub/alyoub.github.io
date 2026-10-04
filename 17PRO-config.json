@@ -1,10 +1,10 @@
 {
   "adsEnabled": true,
   "appOpen": true,
-  "interstitial": false,
-  "rewarded": false,
+  "interstitial": true,
+  "rewarded": true,
   "banner": false,
-  "interstitialInterval": 100,
+  "interstitialInterval": 20,
   "ratingpopup": 1000,
   "Link" : "https://apps.apple.com/us/iphone/today"
 }
