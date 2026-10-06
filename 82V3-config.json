@@ -3,5 +3,6 @@
   "appOpen": true,
   "interstitial": false,
   "rewarded": false,
-  "interstitialInterval": 2000
+  "interstitialInterval": 2000,
+  "realnames": false
 }
