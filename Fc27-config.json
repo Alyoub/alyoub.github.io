@@ -3,6 +3,6 @@
   "rewarded": true,
   "appOpen": true,
   "interstitial": false,
-  "nativeAdEvery": 500,
+  "nativeAdEvery": 700,
   "realnames": false
 }
