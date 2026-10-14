@@ -1,10 +1,10 @@
 {
   "adsEnabled": true,
   "appOpen": true,
-  "interstitial": false,
-  "rewarded": false,
+  "interstitial": true,
+  "rewarded": true,
   "banner": false,
-  "interstitialInterval": 200,
+  "interstitialInterval": 10,
   "ratingpopup": 1000,
-  "Link" : "https://apps.apple.com/us/iphone/today"
+  "Link" : "https://apps.apple.com/ma/app/17-0-football-draft-game/id6818844831"
 }
