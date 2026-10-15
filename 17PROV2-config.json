@@ -5,7 +5,7 @@
   "rewarded": false,
   "banner": false,
   "interstitialInterval": 1000,
-  "ratingpopup": 10,
+  "ratingpopup": 1000,
   "Link" : "https://apps.apple.com/ma/app/17-0-football-draft-game/id6818844831",
   "realnames": false
 }
