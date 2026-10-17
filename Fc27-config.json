@@ -1,8 +1,8 @@
 {
   "adsEnabled": true,
-  "rewarded": true,
+  "rewarded": false,
   "appOpen": true,
-  "interstitial": true,
-  "nativeAdEvery": 15,
+  "interstitial": false,
+  "nativeAdEvery": 1500,
   "realnames": false
 }
