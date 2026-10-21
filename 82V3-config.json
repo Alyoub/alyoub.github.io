@@ -1,7 +1,7 @@
 {
   "adsEnabled": true,
   "appOpen": true,
-  "interstitial": true,
+  "interstitial": false,
   "rewarded": false,
   "interstitialInterval": 10,
   "realnames": false
