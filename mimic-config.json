@@ -2,10 +2,9 @@
   "adsEnabled": true,
   "appOpen": true,
   "interstitial": true,
-  "rewarded": true,
+  "rewarded": false,
   "banner": false,
-  "interstitialInterval": 100,
-  "ratingpopup": 20,
-  "Link" : "https://apps.apple.com/ma/app/17-0-football-draft-game/id6818844831",
-  "realsound": false
+  "interstitialInterval": 9,
+  "Link" : "https://apps.apple.com",
+  "realsound": true
 }
