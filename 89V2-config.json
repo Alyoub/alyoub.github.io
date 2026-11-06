@@ -3,5 +3,7 @@
   "appOpen": true,
   "interstitial": false,
   "rewarded": false,
-  "interstitialInterval": 500
+  "interstitialInterval": 5000
 }
+
+
