@@ -4,6 +4,5 @@
   "interstitial": false,
   "rewarded": false,
   "optionalRewarded": true,
-  "interstitialInterval": 20,
-  "realnames": false
+  "interstitialInterval": 20
 }
