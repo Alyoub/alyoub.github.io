@@ -2,8 +2,8 @@
   "adsEnabled": true,
   "appOpen": true,
   "interstitial": true,
-  "rewarded": true,
+  "rewarded": false,
   "banner": false,
-  "taps": 5,
+  "taps": 50,
   "normal-unit": 1
 }
