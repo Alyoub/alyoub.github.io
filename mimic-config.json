@@ -3,7 +3,6 @@
   "appOpen": true,
   "interstitial": false,
   "rewarded": false,
-  "banner": false,
   "interstitialInterval": 10,
   "Link" : "https://apps.apple.com"
 }
