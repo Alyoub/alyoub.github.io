@@ -1,8 +1,8 @@
 {
   "adsEnabled": true,
   "appOpen": true,
-  "interstitial": true,
-  "rewarded": true,
+  "interstitial": false,
+  "rewarded": false,
   "interstitialInterval": 10,
   "Link" : "https://apps.apple.com"
 }
